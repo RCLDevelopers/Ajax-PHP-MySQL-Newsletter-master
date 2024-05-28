@@ -3,7 +3,7 @@ Ajax PHP MySQL Newsletter
 
 A simple newsletter sign-up form using Ajax, PHP and MySQL.
 
-![](https://raw.github.com/pinceladasdaweb/Ajax-PHP-MySQL-Newsletter/master/screenshot.png)
+![](https://github.com/RCLDevelopers/Ajax-PHP-MySQL-Newsletter/master/screenshot.png)
 
 How to use
 -----------------
